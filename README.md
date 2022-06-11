@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?ergodiclife)
+![](https://komarev.com/ghpvc/?username=ergodiclife)
+
 
 <!--
 **ergodiclife/ergodiclife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
