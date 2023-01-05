@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ergodiclife)
 
-Interested in developing principled statistical systems in data-poor domains.
+Interested in building principled tools for decision support.
 
 <!--
 **ergodiclife/ergodiclife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
