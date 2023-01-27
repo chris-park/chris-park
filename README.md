@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ergodiclife)
 
-Aspiring statistical software engineer.
+Aspiring statistician
 
 <!--
 **ergodiclife/ergodiclife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
