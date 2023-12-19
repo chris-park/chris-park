@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=ergodiclife)
+![](https://komarev.com/ghpvc/?username=chris-park)
 
-Aspiring applied statistician
+Aspiring software engineer
 
 <!--
-**ergodiclife/ergodiclife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chris-park/chris-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
